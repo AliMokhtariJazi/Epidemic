@@ -8,8 +8,6 @@ This repository contains the code and results for an epidemic model analysis ass
 - `part_two.py`: Python script for the network-based epidemic model (Part B of the assignment)
 - `jacobian_analysis.pdf`: Mathematical analysis of the Jacobian matrix for stability analysis
 - `animations/`: Folder containing epidemic spread animations
-  - `part_a_animation.gif`: Animation of the differential equation model results
-  - `part_b_animation.gif`: Animation of the network model epidemic spread
 - `plots/`: Folder containing all generated plots
 - `requirements.txt`: List of Python dependencies
 
@@ -18,8 +16,8 @@ This repository contains the code and results for an epidemic model analysis ass
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/epidemic-model-analysis.git
-cd epidemic-model-analysis
+git clone https://github.com/AliMokhtariJazi/Epidemic.git
+cd Epidemic
 ```
 
 ### 2. Create a Virtual Environment
